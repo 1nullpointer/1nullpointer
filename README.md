@@ -2,6 +2,8 @@
 
 I am Rakesh Kothari
 
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+
 <!--
 **1nullpointer/1nullpointer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
